@@ -1,5 +1,4 @@
 
-
 class Bar<T as num> {
   protected T $t;
   protected dict<int, int> $memo;
