@@ -1,2 +1,2 @@
 www.pid
-vendor/*
+vendor/hhvm/hhvm-autoload/*

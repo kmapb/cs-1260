@@ -1,6 +1,6 @@
 <<__EntryPoint>>
 function main(): void {
-    require_once(__DIR__ . './vendor/autoload.hack');
+    require_once(__DIR__ . '/../vendor/autoload.hack');
     Facebook\AutoloadMap\initialize();
 
     $bar = new Bar<int>(12);
