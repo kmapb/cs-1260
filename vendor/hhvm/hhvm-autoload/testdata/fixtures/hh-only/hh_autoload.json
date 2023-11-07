@@ -1,0 +1,12 @@
+{
+  "roots": [
+    "src/"
+  ],
+  "devRoots": [
+    "tests/"
+  ],
+  "extraFiles": [
+    "extrafile.php"
+  ],
+  "invalidKey": "should be ignored"
+}
